@@ -4,7 +4,7 @@
 - 💞️ 'Ruby', 'Gherkin', 'Cucumber', 'Capybara', 'Selenium', 'Cypress', 'Appium', 'Postman', 'Newman', 'Robot framework'. 
 - 🌱 I’m currently learning Java; maven.
 - 💞️ I’m looking to collaborate on every evolution and learning, especially from new developers. 
-- 📫 How to reach me through my email: diego.rlaraujo@terra.com.br and LinkdIn 
+- 📫 How to reach me through my email: diego.rlaraujo@terra.com.br and LinkedIn 
 
 <!---
 DiegoRLAraujo/DiegoRLAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
