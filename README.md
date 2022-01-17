@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiegoRLAraujo
+- 👋 Hello how are you? My name is @DiegoRLAraujo
 - 👀 I’m interested in evolve as a developer and specialize in quality assurance 
 - 🌱 I’m currently learning Java
 - ✨ I'm constantly evolving with the Ruby language
